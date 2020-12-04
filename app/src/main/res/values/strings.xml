@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherFinder</string>
+    <string name="title_name">Weather Finder</string>
+    <string name="celsius"> ᴼ</string>
+</resources>
